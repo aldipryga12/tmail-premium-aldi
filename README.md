@@ -11,4 +11,4 @@ Frontend temporary email untuk penggunaan testing/privasi yang sah. Inbox menggu
 
 Setelah Netlify terhubung ke repository ini, setiap push ke `main` akan memicu deploy otomatis.
 
-Auto-deploy test: 2026-09-03.
+Auto-deploy test: 2026-09-04.
